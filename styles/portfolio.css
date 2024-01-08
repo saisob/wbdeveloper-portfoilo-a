@@ -125,3 +125,14 @@ main{
 .about-info{
     text-align: center;
 }
+/* What-i-do */
+#What-i-do{
+    padding:30px 150px ;
+}
+.skills-container{
+    display: flex;
+}
+.skill{
+    padding: 30px;
+    gap: 24px;
+}
